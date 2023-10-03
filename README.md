@@ -1,1 +1,1 @@
-# odin-recipes2
+In this project I'm going to create a website shows different recipies. You will click on different links that brings to different webpages that has the recipies in greater detail. 
